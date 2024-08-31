@@ -1,7 +1,8 @@
 - DataGate cURL/Postman API
 
 - [Overview](/)
-- [Agreements](/Agreements)
+- Agreements
+  - [Retrieves a list of agreements](/Agreements/List)
 - [Customers](/Customers)
 - [CustomerUsers](/CustomerUsers)
 - [ServiceItems](/ServiceItems)
