@@ -1,0 +1,15 @@
+- DataGate cURL/Postman API
+
+- [Overview](/)
+- [Agreements](/Agreements)
+- [Customers](/Customers)
+- [CustomerUsers](/CustomerUsers)
+- [ServiceItems](/ServiceItems)
+- [Assignments](/Assignments)
+- [RateCards](/RateCards)
+- [Sites](/Sites)
+- [ProductTemplates](/ProductTemplates)
+- [KitTemplates](/KitTemplates)
+- [Invoices](/Invoices)
+- [Products](/Products)
+- [Schemas](/Schemas)
